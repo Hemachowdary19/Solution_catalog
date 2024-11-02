@@ -1,9 +1,9 @@
 first test case
--> javac javac Solution.java
+-> javac javac solution.java
 
--> java Solution Value of coefficient is 3
+-> java solution Value of coefficient is 3
 
 Second test case
--> javac javac Solution.java
+-> javac javac solution.java
 
--> java Solution Value of coefficient is 28735619723837
+-> java solution Value of coefficient is 28735619723837
